@@ -1,1 +1,1 @@
-![Metrics](https://github.com/atomicradio/.profile/blob/master/github-metrics.svg)
+![Metrics](https://github.com/atomicradio/.github/blob/master/github-metrics.svg)
